@@ -1,0 +1,13 @@
+#ignore compiled class files
+*.class
+
+#ignore log files
+*.log
+
+#ignore out build directory
+target/
+
+#ignore out intellij directory or files
+.idea/
+*.iml
+
